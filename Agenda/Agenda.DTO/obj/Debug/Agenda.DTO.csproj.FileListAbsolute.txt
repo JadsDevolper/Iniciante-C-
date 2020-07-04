@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Agenda\Agenda.DTO\bin\Debug\Agenda.DTO.dll
+C:\Users\Aluno\Desktop\Agenda\Agenda.DTO\bin\Debug\Agenda.DTO.pdb
+C:\Users\Aluno\Desktop\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.dll
+C:\Users\Aluno\Desktop\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.pdb
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Agenda\Agenda.DTO\bin\Debug\Agenda.DTO.dll
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Agenda\Agenda.DTO\bin\Debug\Agenda.DTO.pdb
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.csprojAssemblyReference.cache
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.csproj.CoreCompileInputs.cache
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.dll
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Agenda\Agenda.DTO\obj\Debug\Agenda.DTO.pdb

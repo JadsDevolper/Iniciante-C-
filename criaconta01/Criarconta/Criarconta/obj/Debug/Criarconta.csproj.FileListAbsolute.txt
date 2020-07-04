@@ -1,0 +1,10 @@
+C:\Users\PortalII\Documents\Programação\C#\criaconta01\Criarconta\Criarconta\bin\Debug\Criarconta.exe.config
+C:\Users\PortalII\Documents\Programação\C#\criaconta01\Criarconta\Criarconta\bin\Debug\Criarconta.exe
+C:\Users\PortalII\Documents\Programação\C#\criaconta01\Criarconta\Criarconta\bin\Debug\Criarconta.pdb
+C:\Users\PortalII\Documents\Programação\C#\criaconta01\Criarconta\Criarconta\obj\Debug\Criarconta.csprojAssemblyReference.cache
+C:\Users\PortalII\Documents\Programação\C#\criaconta01\Criarconta\Criarconta\obj\Debug\Criarconta.Form1.resources
+C:\Users\PortalII\Documents\Programação\C#\criaconta01\Criarconta\Criarconta\obj\Debug\Criarconta.Properties.Resources.resources
+C:\Users\PortalII\Documents\Programação\C#\criaconta01\Criarconta\Criarconta\obj\Debug\Criarconta.csproj.GenerateResource.cache
+C:\Users\PortalII\Documents\Programação\C#\criaconta01\Criarconta\Criarconta\obj\Debug\Criarconta.csproj.CoreCompileInputs.cache
+C:\Users\PortalII\Documents\Programação\C#\criaconta01\Criarconta\Criarconta\obj\Debug\Criarconta.exe
+C:\Users\PortalII\Documents\Programação\C#\criaconta01\Criarconta\Criarconta\obj\Debug\Criarconta.pdb

@@ -1,0 +1,6 @@
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria.DAL\bin\Debug\Pizzaria.DAL.dll
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria.DAL\bin\Debug\Pizzaria.DAL.pdb
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria.DAL\obj\Debug\Pizzaria.DAL.csprojAssemblyReference.cache
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria.DAL\obj\Debug\Pizzaria.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria.DAL\obj\Debug\Pizzaria.DAL.dll
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria.DAL\obj\Debug\Pizzaria.DAL.pdb

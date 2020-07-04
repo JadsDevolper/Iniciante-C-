@@ -1,0 +1,27 @@
+Aula Josef 15-04
+-------------------------------------------
+
+MVC = model viel controller (patern: padrões)
+
+V = viel = Tela
+
+C= Controle = Classes, linkar visualização com a camada de modelo
+
+M = classes de validação e integração com o BD
+----------------------------------------------------
+DTO<--(PL --> BLL --> DAL)
+
+
+PL - Presentation Layer - camada que conterá telas, criar os Windows forms
+
+BLL - Busines Logic Layer - regras de negocios, classes com validações etc.
+
+DAL - Data Access Layer - classes que fazem acesso ao BD, comandos de acesso a base de dados.
+
+DTO - Data transfer Objects - classes de entidades, classes que contem atributos.
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria\obj\Debug\Pizzaria.PL.csprojAssemblyReference.cache
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria\obj\Debug\Pizzaria.CadastroPedido.resources
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria\obj\Debug\Pizzaria.CadastroPessoas.resources
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria\obj\Debug\Pizzaria.CadastroProduto.resources
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria\obj\Debug\Pizzaria.PL.csproj.GenerateResource.cache
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria\obj\Debug\Pizzaria.PL.csproj.CoreCompileInputs.cache
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria\obj\Debug\Pizzaria.pdb

@@ -1,0 +1,6 @@
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Pizzaria\Pizzaria\Pizzaria.DTO\bin\Debug\Pizzaria.DTO.dll
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Pizzaria\Pizzaria\Pizzaria.DTO\bin\Debug\Pizzaria.DTO.pdb
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Pizzaria\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.csprojAssemblyReference.cache
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Pizzaria\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.csproj.CoreCompileInputs.cache
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Pizzaria\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.dll
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Pizzaria\Pizzaria\Pizzaria.DTO\obj\Debug\Pizzaria.DTO.pdb

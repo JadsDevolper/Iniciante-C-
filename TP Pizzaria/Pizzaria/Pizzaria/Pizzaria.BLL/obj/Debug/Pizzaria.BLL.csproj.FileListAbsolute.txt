@@ -1,0 +1,2 @@
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Pizzaria\Pizzaria\Pizzaria.BLL\obj\Debug\Pizzaria.BLL.csprojAssemblyReference.cache
+C:\Users\PortalII\Documents\UNIP\Programação\C#\Pizzaria\Pizzaria\Pizzaria.BLL\obj\Debug\Pizzaria.BLL.csproj.CoreCompileInputs.cache

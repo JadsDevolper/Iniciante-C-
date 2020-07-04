@@ -1,0 +1,6 @@
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria.BLL\bin\Debug\Pizzaria.BLL.dll
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria.BLL\bin\Debug\Pizzaria.BLL.pdb
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria.BLL\obj\Debug\Pizzaria.BLL.csprojAssemblyReference.cache
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria.BLL\obj\Debug\Pizzaria.BLL.csproj.CoreCompileInputs.cache
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria.BLL\obj\Debug\Pizzaria.BLL.dll
+C:\Users\PortalII\Documents\UNIP\Programação\C#\TP Pizzaria\PizzariaUltimo\PizzariaUltimo\Pizzaria.BLL\obj\Debug\Pizzaria.BLL.pdb

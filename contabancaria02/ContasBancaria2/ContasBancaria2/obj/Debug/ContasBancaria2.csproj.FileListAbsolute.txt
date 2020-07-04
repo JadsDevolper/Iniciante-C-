@@ -1,0 +1,10 @@
+C:\Users\PortalII\Documents\Programação\C#\contabancaria02\ContasBancaria2\ContasBancaria2\bin\Debug\ContasBancaria2.exe.config
+C:\Users\PortalII\Documents\Programação\C#\contabancaria02\ContasBancaria2\ContasBancaria2\bin\Debug\ContasBancaria2.exe
+C:\Users\PortalII\Documents\Programação\C#\contabancaria02\ContasBancaria2\ContasBancaria2\bin\Debug\ContasBancaria2.pdb
+C:\Users\PortalII\Documents\Programação\C#\contabancaria02\ContasBancaria2\ContasBancaria2\obj\Debug\ContasBancaria2.csprojAssemblyReference.cache
+C:\Users\PortalII\Documents\Programação\C#\contabancaria02\ContasBancaria2\ContasBancaria2\obj\Debug\ContasBancaria2.Form1.resources
+C:\Users\PortalII\Documents\Programação\C#\contabancaria02\ContasBancaria2\ContasBancaria2\obj\Debug\ContasBancaria2.Properties.Resources.resources
+C:\Users\PortalII\Documents\Programação\C#\contabancaria02\ContasBancaria2\ContasBancaria2\obj\Debug\ContasBancaria2.csproj.GenerateResource.cache
+C:\Users\PortalII\Documents\Programação\C#\contabancaria02\ContasBancaria2\ContasBancaria2\obj\Debug\ContasBancaria2.csproj.CoreCompileInputs.cache
+C:\Users\PortalII\Documents\Programação\C#\contabancaria02\ContasBancaria2\ContasBancaria2\obj\Debug\ContasBancaria2.exe
+C:\Users\PortalII\Documents\Programação\C#\contabancaria02\ContasBancaria2\ContasBancaria2\obj\Debug\ContasBancaria2.pdb
